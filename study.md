@@ -23,9 +23,3 @@
 
 As noted previously, **no response is required** for this study. Complete the
 workshop at your own pace as a review tool for JavaScript fundamentals.
-
-If you wish, then you may open an issue and include any questions that you still
-have about JavaScript or any other topic that you want to explore further in a
-one-on-one meeting. If you do this, then be sure to schedule your one-on-one
-meeting with a consultant and link to your response issue, which will serve as
-an agenda for the meeting.
